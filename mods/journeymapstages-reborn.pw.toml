@@ -1,0 +1,13 @@
+name = "JourneyMapStages  Reborn"
+filename = "journeymapstages-1.20.1-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7SBV3S3v/versions/fYejeqTP/journeymapstages-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "b791249c40a350c402a4685da53a977d69ec015c258aebdc40d521bd3ac328d5a144defbaf27ba3fa7bef999d27de08c5c401f154427654d0ae02a876d933a1c"
+
+[update]
+[update.modrinth]
+mod-id = "7SBV3S3v"
+version = "fYejeqTP"

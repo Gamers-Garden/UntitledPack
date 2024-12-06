@@ -1,0 +1,13 @@
+name = "Untitled Pack"
+author = "ACrazyCat"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4d28a25fdfc3ebc4cc95b5c2e18cf6a0ed655fae5e99e1458cd6cd3152d81e1d"
+
+[versions]
+forge = "47.3.12"
+minecraft = "1.20.1"
