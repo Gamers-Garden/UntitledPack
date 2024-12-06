@@ -66,6 +66,11 @@ hash = "b83a42ce461277f78c9796b6610f19fbb131f185dd9d4385e7b319d86ae9a9c9"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3c4797a9ade2ad41b4163a8838ad95b27f2b07906bf44f1c05a04c822e44719b"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "b29b617692233d60179a6d7376dade85063af0e73a3cc53c623bf570fb768d82"
 metafile = true
@@ -73,6 +78,16 @@ metafile = true
 [[files]]
 file = "mods/journeymapstages-reborn.pw.toml"
 hash = "c2263ef48034291d364d7356489d1dcc0cd166f45a8cc4dd4d55905b195bd60a"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "051e68cdc04c210afa273cda7e109bea1f08380451593be022db86e6301dff36"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
 metafile = true
 
 [[files]]
