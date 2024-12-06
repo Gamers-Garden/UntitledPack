@@ -1,6 +1,6 @@
 name = "JourneyMapStages  Reborn"
 filename = "journeymapstages-1.20.1-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7SBV3S3v/versions/fYejeqTP/journeymapstages-1.20.1-1.0.0.jar"
