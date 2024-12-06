@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "58bf232b1c834c1fef46c16da46503490f0abe73b15ce975d549190de79c5e79"
+hash = "716c3b6062e6e3791d76bafa836bfaa2b6129b1a485faa6da2d637d3339e0fdc"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/cadmus.pw.toml"
-hash = "1f72381616a5bfc9b6f461a8ff3b335a5c4dccac953f0c9e399d1b98ceb2114a"
+hash = "fd238a2aa7f1ecf61033a83153f999f593f04bcde32fd673b1f4686c89aa6e86"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymapstages-reborn.pw.toml"
-hash = "f9faca6d14353f92359c1bb0b7b4bd14f65342002680b3806f6949151ad28423"
+hash = "2bd81a4675e09dc96bbd146f918800085b2521f62f382777ecbbceb93ddd310d"
 metafile = true
 
 [[files]]
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "83a8c0cd16860da264c9f46d9d3bf0e5427593020866cd65c1bc24448d89b4dc"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
