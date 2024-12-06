@@ -2,130 +2,155 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "63833ffe55dc61c65d118669f3ba9d9870310dc2354387cba81011490bc40ccf"
+hash = "e8bc1390511c0342f6763ecebefce45dc3bcdc0de42204de4db69e05f2c2613e"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
+hash = "f33810d5961a90de469504fbe8c2058f807bebffc663385347d419bde3a147ac"
+metafile = true
+
+[[files]]
+file = "mods/argonauts.pw.toml"
+hash = "58bf232b1c834c1fef46c16da46503490f0abe73b15ce975d549190de79c5e79"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
+hash = "0bf30dc11d8cc4abdc4c695f7522ca2c2c8f10766464e93381210e051b2d7768"
+metafile = true
+
+[[files]]
+file = "mods/cadmus.pw.toml"
+hash = "1f72381616a5bfc9b6f461a8ff3b335a5c4dccac953f0c9e399d1b98ceb2114a"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "85e384667b89e3851580f924733c686d8cd7fd3ad7f841aca971cb01bd60e4d7"
+hash = "d83c55f6d79b8abaaff491626379f42affb11c20454e55c482cdede8f0f704ac"
 metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "087dc23d27a349bdba7e4bbde191485859275057445e14648d6b8b8c16048bee"
+hash = "c8bfebcf05677698bf28a41a3195b95deb9045b888e921cd810ef657df6a137b"
 metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "c3d83841e9c92acc635801cfb66c36fed15d670dcc866e56721a0451eaa22ef2"
+hash = "bf91055400e657f706248d8e9eb469ff9efa6cc23933a01447226a46808d8bc7"
 metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "1029691da1b0cfb326bba6b721ec1d9cd118c6e068871d827fd4f535f1f363ea"
+hash = "51bcb0b5654a17c938d8a0a53f038347c9478f81153f7d18cd904678ee48dec1"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "1eceb4e4ab86c793f992ce9444e92f46dae76c3f744d8e19feb1143fb6c01939"
+hash = "71b5a17ff61b3dacd1d216e34b22f1a80c165b9951a15e2c4e789d9bf5d7d044"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "cfaa5b3bc3481ac20f9294309e91f7a01597b6adf70137fe3340d02b7b941299"
+hash = "4fb7f4a725e39b051d43267398354a22d1fdd1e7764bc9d087e678a5e3ccfbb7"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+hash = "9ddb37809dbf50f17ccfca4039149524ec0ed8f5838441a94fbb1de3a780c9b5"
 metafile = true
 
 [[files]]
 file = "mods/game-stages.pw.toml"
-hash = "b92fa7fc7fa497f034ba2a33d031101b554ddbf9db645a60a0f0fc4a9127c4e7"
+hash = "c459eda17b909ae4730720994ec991f5cc10563c94a2a07a26340e1251effeef"
 metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+hash = "b773e95f3d2930250507b1da080da03b4fee7702d6f94a794d4388e8c39824b3"
+metafile = true
+
+[[files]]
+file = "mods/heracles.pw.toml"
+hash = "71dc495901cf92b8f044d3aa2c02311fedac76ebb4c5dac1d7a727a455c61471"
 metafile = true
 
 [[files]]
 file = "mods/item-stages.pw.toml"
-hash = "b83a42ce461277f78c9796b6610f19fbb131f185dd9d4385e7b319d86ae9a9c9"
+hash = "569b6c8b1f8787c398a9f01aadb24a6babf3ac87f7b7a8d4a6fe8098e582a611"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "b29b617692233d60179a6d7376dade85063af0e73a3cc53c623bf570fb768d82"
+hash = "1fc3192a1ee0007f91f63f884aef562f137fad377083b7f8528ef496d8468469"
 metafile = true
 
 [[files]]
 file = "mods/journeymapstages-reborn.pw.toml"
-hash = "c2263ef48034291d364d7356489d1dcc0cd166f45a8cc4dd4d55905b195bd60a"
+hash = "f9faca6d14353f92359c1bb0b7b4bd14f65342002680b3806f6949151ad28423"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+hash = "73fc36a1919cb36ebf2d9652a2238e82f497058e3981ac58d4cda4516cb31a9a"
 metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "2f8d1c3e8ff75a265ba6703a488c6fa7edc69cd9a01418ed1a6884e57a3e3ade"
+hash = "aa614655a721d574e3b867c322a03eca0a0d5ba962a7841516aae0d2056dbc86"
 metafile = true
 
 [[files]]
 file = "mods/ore-stages-reborn.pw.toml"
-hash = "81a4574ef68deafd4b98e3944c137c99acffb6c90c077f41db3c8942792c09b3"
+hash = "301f629717539136bc11b5f99bd1e123b3bf4adf6fd9bbe340a0303eb5a52245"
+metafile = true
+
+[[files]]
+file = "mods/prometheus.pw.toml"
+hash = "96679a0926fb0aeb8afc3c22c11d0adbe947e3e3848125221265027b144ad0af"
 metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "dbb83ae72868c1d9a3b4c2a32b7f083348ee427ecffc4b149010f7eca7c310c5"
+hash = "55476bb14cbfa2355d4304df6dac9437beb28777caa95a946702961edb8dcaba"
 metafile = true
 
 [[files]]
 file = "mods/recipe-stages.pw.toml"
-hash = "ff94210597f5bf032a675a4be94f4707913d2bfacbe9a02a49b6982adf6b749a"
+hash = "39fc93ed098e81d06dcdf58637ddc8f18ed20ee60928b00dcb36d6bddde88fe2"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
 file = "mods/sdm-core.pw.toml"
-hash = "72802440557d2ef48ff0374918f6a15cc1c5f61c46abb5327fc67c2ccf620220"
+hash = "e967cdf57b8bac477cc695ee233a591e8b6845bd52a7160ad476ace7854ce09f"
 metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "816765c1d1efd28ee1046b8b515e3e4f0ea9551e81b44f059714bc6c93e7779d"
+hash = "12faa65eaaaa3d04a7913c8b5c3104f3c9ca0ef3c9d2a431998aa29c34714c63"
 metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "3c398cf79509a5aa51bb2c4ba73d2777300fd2b4dd750246be963d5e9342209a"
+hash = "cef5abcbe5a5dd87c1c8ea4e6a4d3e5e71998e9f2449730722a3762c5471ec51"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e3bdb65c2ce034e26c9277751a370baac6df6853d55e92327170df8778a837fb"
+hash = "83a8c0cd16860da264c9f46d9d3bf0e5427593020866cd65c1bc24448d89b4dc"
 metafile = true
 
 [[files]]
 file = "mods/thin-air.pw.toml"
-hash = "d6b1b6119cb4f57f6f9b2a9cafee92e184f44273dca3ad96a8a6c891f51d093f"
+hash = "2bbb59d32c947021e561e30f51b9e904f5b1fde5b697e562d32dacc92002b8f1"
 metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "3869af43202af44211167226216ecd0ff557a87fe4fa8e01a271fe4e4c37b844"
+hash = "122fc7fa355ae0de6b99f0fccd7b676a28e4caf8e68c360a5952ebf485a20b34"
 metafile = true
