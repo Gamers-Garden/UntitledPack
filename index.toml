@@ -45,8 +45,18 @@ hash = "c8bfebcf05677698bf28a41a3195b95deb9045b888e921cd810ef657df6a137b"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "c13169805fdb4f7d8608fdb2b78f83cea5d99d726942349128f2958946011132"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "f98c98825fcab154eead43cfa934314da2fe34882240388c1075ee6cee53956a"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
@@ -90,6 +100,11 @@ hash = "b773e95f3d2930250507b1da080da03b4fee7702d6f94a794d4388e8c39824b3"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
+metafile = true
+
+[[files]]
 file = "mods/heracles.pw.toml"
 hash = "71dc495901cf92b8f044d3aa2c02311fedac76ebb4c5dac1d7a727a455c61471"
 metafile = true
@@ -122,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "970fa94907c8db8aadcffa114bf5b38f7f4bb88d773f3a4a494972a14a43ec4b"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
@@ -162,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/sdm-core.pw.toml"
 hash = "e967cdf57b8bac477cc695ee233a591e8b6845bd52a7160ad476ace7854ce09f"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
